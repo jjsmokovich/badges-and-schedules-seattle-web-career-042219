@@ -5,7 +5,7 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(speakers)
-  i = o 
+  speakers.each |
 end
 
 def assign_rooms
