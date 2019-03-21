@@ -11,9 +11,6 @@ def batch_badge_creator(speakers)
 end
 
 
-def assign_rooms(speakers)
-  speakers.each_with_index do 
-end
 
 def printer
   
