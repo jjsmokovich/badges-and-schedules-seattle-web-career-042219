@@ -17,3 +17,4 @@ def printer
 end
 
 speakers = ["Edsger", "Charles", "Alan", "Grace", "Linus", "Matz"]
+
