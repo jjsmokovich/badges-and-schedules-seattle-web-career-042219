@@ -23,3 +23,4 @@ def batch_badge_creator(speakers)
     "Hello, my name is #{name}."
   end
 end
+
